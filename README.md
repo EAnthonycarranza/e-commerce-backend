@@ -19,7 +19,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
 
 1. Clone the repository:
     ```shell
-    git clone https://github.com/EAnthonyC/e-commerce-backend.git
+    git clone https://github.com/EAnthonycarranza/e-commerce-backend.git
 
 - Install the dependencies:
 
