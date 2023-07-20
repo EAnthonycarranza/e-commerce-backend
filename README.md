@@ -24,19 +24,23 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
 2. Install the dependencies:
 
     ```shell
-    cd e-commerce-backend
+    cd e-commerce-backend/Develop
     npm install 
     ```
     ```shell
+    cd Develop
     npm install express
     ```
     ```shell
+    cd Develop
     npm install sequelize
     ```
     ```shell
+    cd Develop
      npm install mysql2
     ```
     ```shell
+    cd Develop
     npm install dotenv
     ```
     
