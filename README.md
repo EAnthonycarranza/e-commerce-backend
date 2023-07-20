@@ -27,6 +27,19 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
     cd e-commerce-backend
     npm install 
     ```
+    ```shell
+    npm install express
+    ```
+    ```shell
+    npm install sequelize
+    ```
+    ```shell
+     npm install mysql2
+    ```
+    ```shell
+    npm install dotenv
+    ```
+    
 - Execute the following command to create and seed the database:
     ```shell
     npm run seed
