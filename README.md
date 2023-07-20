@@ -21,7 +21,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
     ```shell
     git clone https://github.com/EAnthonycarranza/e-commerce-backend.git
 
-- Install the dependencies:
+2. Install the dependencies:
 
     ```shell
     npm install 
@@ -39,7 +39,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
     npm install dotenv
     ```
     
-- Execute the following command to create and seed the database:
+3. Execute the following command to create and seed the database:
     ```shell
     npm run seed
     ```
