@@ -47,8 +47,6 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
     Before running the seeding script, make sure you have created the database "ecommerce_db"      in MySQL. You can create the database by following these steps:
 
 - Log in to MySQL using your credentials:
-  
-  - mysql -u YOUR_MYSQL_USERNAME -p
 
   - mysql -u YOUR_MYSQL_USERNAME -p
 
