@@ -50,13 +50,13 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
 
   - mysql -u YOUR_MYSQL_USERNAME -p
 
-  Once logged in, create the database:
+- Once logged in, create the database:
 
   ```shell
   CREATE DATABASE ecommerce_db;
   ```
 
-  Exit the MySQL shell:
+- Exit the MySQL shell:
 
   ```shell
   quit
