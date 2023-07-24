@@ -34,7 +34,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
 
 3. Set up the database:
 
-    - Rename the 'env.EXAMPLE' to '.env' and add your MySQL database credentials:
+    - Rename 'env.EXAMPLE' to '.env' and add your MySQL database credentials:
 
         DB_NAME=ecommerce_db
 
