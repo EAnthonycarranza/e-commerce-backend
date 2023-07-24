@@ -38,7 +38,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
 
         DB_NAME=ecommerce_db
 
-        DB_USER=root
+        DB_USER=your_username
 
         DB_PASSWORD=your_password
 
@@ -48,7 +48,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
 
 - Log in to MySQL using your credentials:
 
-  - mysql -u root -p
+  - mysql -u your_username -p
 
 - Once logged in, create the database:
 
