@@ -31,7 +31,7 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
     npm install mysql2
     npm install dotenv
     ```
-    
+
 3. Set up the database:
 
     - Create a '.env' file and add your MySQL database credentials:
@@ -41,6 +41,29 @@ The e-commerce backend is built using Express.js and Sequelize ORM, and it uses 
         DB_USER=your_username
 
         DB_PASSWORD=your_password
+
+4.  Create the database:
+    
+    Before running the seeding script, make sure you have created the database "ecommerce_db"      in MySQL. You can create the database by following these steps:
+
+- Log in to MySQL using your credentials:
+  ```shell
+      mysql -u YOUR_MYSQL_USERNAME -p
+    ```
+
+  - mysql -u YOUR_MYSQL_USERNAME -p
+
+  Once logged in, create the database:
+
+  ```shell
+  CREATE DATABASE ecommerce_db;
+  ```
+
+  Exit the MySQL shell:
+
+  ```shell
+  quit
+  ```
 
 4. Execute the following command to create and seed the database:
     ```shell
