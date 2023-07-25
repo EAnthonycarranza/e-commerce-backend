@@ -9,6 +9,7 @@ This is the backend application for an e-commerce website. It provides the neces
 - [Usage](#usage)
 - [API Routes](#api-routes)
 - [Technologies Used](#technologies-used)
+- [Walkthrough Video](#walkthrough-video)
 - [License](#license)
 
 # Description
@@ -110,6 +111,12 @@ This project incorporates the following technologies:
 - Sequelize ORM
 - MySQL
 - JavaScript
+
+# Walkthrough Video
+
+A video demonstration of the application's functionality can be found at the following link:
+
+[Link to Video](https://youtu.be/VPTbtZNlW1g)
 
 # License
 
